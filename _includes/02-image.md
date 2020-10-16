@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![library](https://media.timeout.com/images/105628370/1372/772/image.jpg)
